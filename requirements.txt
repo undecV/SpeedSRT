@@ -1,0 +1,4 @@
+#!python -m pip install -r
+srt
+click
+rich
